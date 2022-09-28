@@ -1,0 +1,39 @@
+main{
+    background-color: lightgray;
+    height: 400px;
+    width: 1000px;
+}
+header{
+    background-color: lightgrey;
+    overflow: hidden;
+}
+#menu{
+    background-color: blueviolet;
+    width: 400px;
+    float: right;
+}
+#logo{
+    background-color: cadetblue;
+    width: 50px;
+    float: left;
+}
+#slide{
+    background-color: grey;
+    height: 100px;
+}
+#content{
+    background-color: lightslategrey;
+    height: 100px;
+}
+.subcontent{
+    background-color: lightcoral;
+}
+ul{
+    list-style-type: none;
+    margin: 0px;
+    padding: 0px;
+}
+li{
+    float: left;
+    margin: 10px;
+}
